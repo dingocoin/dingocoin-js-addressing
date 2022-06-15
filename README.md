@@ -28,3 +28,13 @@ console.log(addressing.isWif(privKeyWif));
 assert(privKey = addressing.fromWif(privKeyWif));
 ```
 
+## Testing (mocha)
+`npm test`
+
+## Contributing
+Please create a PR or drop a message in our community.
+
+## Community
+- [Dev forum](https://dev.dingocoin.org)
+- [General Discord](https://discord.gg/y3J946HFQM)
+- [Other channels](https://dingocoin.org/community)
