@@ -7,7 +7,7 @@ Dingocoin address manipulation utils
 ## Usage
 ```
 // Import package.
-const address = require('@dingocoin-js/addressing');
+const addressing = require('@dingocoin-js/addressing');
 
 // Creating random private key.
 const privKey = addressing.randomPrivateKey();
