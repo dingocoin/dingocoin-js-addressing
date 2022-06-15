@@ -1,5 +1,5 @@
 # dingocoin-js-addressing
-Dingocoin address manipulation utils
+Dingocoin address manipulation utils for JavaScript.
 
 ## Installation
 `npm install @dingocoin-js/addressing`
