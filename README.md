@@ -25,7 +25,7 @@ const privKeyWif = addressing.toWif(privKey);
 console.log(addressing.isWif(privKeyWif));
 
 // Import private key from  WIF.
-assert(privKey = addressing.fromWif(privKeyWif));
+assert(privKey == addressing.fromWif(privKeyWif));
 ```
 
 ## Testing (mocha)
