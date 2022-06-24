@@ -1,4 +1,4 @@
-# dingocoin-js-addressing
+# @dingocoin-js/addressing
 Dingocoin address manipulation utils for JavaScript. It allows you to easily create Dingocoin private keys, convert them into Dingocoin addresses; to validate Dingocoin addresses, and to export and import your private keys.
 
 ## Installation
