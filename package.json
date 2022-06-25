@@ -1,7 +1,7 @@
 {
   "name": "@dingocoin-js/addressing",
   "version": "1.0.2",
-  "description": "Dingocoin address manipulation utils",
+  "description": "JavaScript util library for manipulating Dingocoin addressess",
   "main": "index.js",
   "repository": "https://github.com/dingocoin/dingocoin-js-addressing.git",
   "author": "rkbling",
